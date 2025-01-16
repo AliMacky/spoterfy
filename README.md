@@ -145,7 +145,7 @@ Want to contribute to Spoterfy? Here's how to set up the development environment
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spoterfy.git
+   git clone https://github.com/alimacky/spoterfy.git
    cd spoterfy
    ```
 
